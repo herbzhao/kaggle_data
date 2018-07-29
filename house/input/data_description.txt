@@ -30,7 +30,7 @@ MSZoning: Identifies the general zoning classification of the sale.
 	
 LotFrontage: Linear feet of street connected to property
 
-LotArea: Lot size in square MasVnrType
+LotArea: Lot size in square feet
 
 Street: Type of road access to property
 
@@ -406,7 +406,7 @@ FireplaceQu: Fireplace quality
        Ex	Excellent - Exceptional Masonry Fireplace
        Gd	Good - Masonry Fireplace in main level
        TA	Average - Prefabricated Fireplace in main living area or Masonry Fireplace in basement
-       Fa	Fair - Prefabricated FiLotFrontagereplace in basement
+       Fa	Fair - Prefabricated Fireplace in basement
        Po	Poor - Ben Franklin Stove
        NA	No Fireplace
 		
@@ -459,7 +459,7 @@ PavedDrive: Paved driveway
 		
 WoodDeckSF: Wood deck area in square feet
 
-OpenPorchSF: Open porch area in square m
+OpenPorchSF: Open porch area in square feet
 
 EnclosedPorch: Enclosed porch area in square feet
 
